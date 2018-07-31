@@ -1,0 +1,59 @@
+body {
+	background-image: url("../images/pattern_bg.png");
+	margin: 0px;
+	padding: 0px;
+}
+
+.h1, h1 {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 35px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.buttons-view {
+	margin: 20px 0px 20px 0px;
+}
+
+.btn-default {
+    
+    border-color: #000;
+    box-shadow: 2px 2px 1px 0px #000000;
+}
+
+.btn-default:hover {
+    background-color: #000000;
+    color:#fff;
+}
+
+.gifDiv {
+	margin-right: 15px;
+	float: left;
+	margin-bottom: 30px;
+}
+
+.topic {
+	margin-right: 5px;
+	margin-bottom: 5px;
+	background-color: purple;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#add-topic {
+    background-color: purple;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+#topic-input {
+    width: 100%;
+    margin-top: 4px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
